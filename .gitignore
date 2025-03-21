@@ -1,0 +1,24 @@
+# Python cache and logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# Personal configuration
+chromeProfilePath.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Distribution/build files
+*.egg-info/
+dist/
+build/
